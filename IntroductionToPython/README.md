@@ -1,1 +1,1 @@
-# This repository consists Python, NumPy, Pandas Examples for revision and cheest sheet
+# Collection of Udacity examples from course Data Analyst Nanodegree program
